@@ -4,7 +4,7 @@
     "contentApiKey": "0ecf0c837cad0bc6da9db7eaaf"
   },
   "production": {
-    "apiUrl": "https://wimazariegos.netlify.com/",
-    "contentApiKey": "5e016f35cf65ea47eac5bd92:b82614a17fa313567498edd5a8ef37f9581441aa8a04f5920a27e0a5e5ab95ed"
+    "apiUrl": "http://localhost:2368",
+    "contentApiKey": "0ecf0c837cad0bc6da9db7eaaf"
   }
 }
